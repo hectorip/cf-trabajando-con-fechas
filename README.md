@@ -6,9 +6,16 @@ Sin embargo, hacerlo bien es algo difícil, necesitamos el conocimiento básico.
 
 En este repositorio tienes ejemplos de cómo trabajar con fechas en Python. Entenderás los conceptos básicos para aplicarlos en tus proyectos, pero también podrás aplicar ese conocimiento a otros lenguajes, ya que las bases son las mismas.
 
-## Representación de datos
+## Representación de información
 
-Todos los desarrolladores necesitamos trabajar con fechas y esto es un caso de más de un problema que
+Representar información es una de las tareas fundamentales de todos los desarrolladores de software.
+
+¿Pero qué es la representación de información?
+
+Es convertir un dato del mundo real a un dato que pueda ser interpretado pero sobre todo almacenado por una computadora.
+
+Pongamos como ejemplo los números enteros.
+
 
 ## Referencias
 
