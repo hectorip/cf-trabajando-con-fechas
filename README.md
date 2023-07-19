@@ -4,18 +4,19 @@ Trabajar con representaciones de fechas y horas es algo que todos los desarrolla
 
 Sin embargo, hacerlo bien es algo difícil, necesitamos el conocimiento básico.
 
-En este repositorio tienes ejemplos de cómo trabajar con fechas en Python. Entenderás los conceptos básicos para aplicarlos en tus proyectos, pero también podrás aplicar ese conocimiento a otros lenguajes, ya que las bases son las mismas.
+En este repositorio tienes ejemplos de cómo trabajar con fechas en Python. Entenderás los conceptos básicos para aplicarlos en tus proyectos, pero también podrás aplicar ese conocimiento a otros lenguajes, ya que los principios son los mismos.
 
 ## Representación de información
 
 Representar información es una de las tareas fundamentales de todos los desarrolladores de software.
 
-¿Pero qué es la representación de información?
+¿Pero qué es?
 
 Es convertir un dato del mundo real a un dato que pueda ser interpretado pero sobre todo almacenado por una computadora.
 
 Pongamos como ejemplo los números enteros.
 
+Cuando pones un 5...
 
 ## Referencias
 
