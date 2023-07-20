@@ -16,7 +16,27 @@ Es convertir un dato del mundo real a un dato que pueda ser interpretado pero so
 
 Pongamos como ejemplo los números enteros.
 
-Cuando pones un 5...
+Cuando pones un `5` estas representando un número entero, que es un concepto de cantidad, pero que la computadora almacena como un conjunto de bits.
+
+Pero el concepto del número 5 puede ser representado de múltiples maneras que ni siquiera tenemos en cuenta muchas veces:
+
+- `5`
+- `V`
+- `cinco`
+- `five`
+- `101`
+- `0b101`
+- `0x5`
+- `0o5`
+- `|||||`
+- `⚄`
+- `🖐`
+
+Todos los tipos de datos que conocemos, son guías para **representaciones de información**.
+
+El tipo de dato que mejor sirve para representar
+fechas y horas es el tipo de dato `datetime`.
+
 
 ## Referencias
 
