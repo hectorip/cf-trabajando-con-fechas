@@ -1,10 +1,9 @@
-# `from backports.zoneinfo import ZoneInfo` if you
-# are on Python <= 3.9 and have installed backports.zoneinfo
+# `from backports.zoneinfo import ZoneInfo` si estás
+# en Python <= 3.9 y tienes instalado backports.zoneinfo
 
 from zoneinfo import ZoneInfo
 
 
-# Timezone aware
 def is_aware(dt_value):
     """Nos dice si la fecha tiene zona horaria asociada"""
     return (
@@ -21,8 +20,8 @@ def make_aware(dt_value, timezone_name):
 
 
 def change_timezone(dt_value, timezone_name):
-    """
-    Cambia la zona horaria de la fecha
+    """Cambia la zona horaria de la fecha, sin modificar la hora, es decir,
+    representa la misma hora en otra zona horaria
     """
     if not is_aware(dt_value):
         raise ValueError("Se necesita una fecha con zona horaria asociada")

@@ -2,6 +2,7 @@ from datetime import datetime
 import sys
 
 sys.path.insert(1, "..")
+
 from timezone_utils import is_aware
 
 # Fecha actual

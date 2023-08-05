@@ -40,5 +40,23 @@ fechas y horas es el tipo de dato `datetime`.
 
 ## Referencias
 
+Bibliotecas de la biblioteca estándar de Python:
+
 - [Documentación oficial de Python](https://docs.python.org/3/library/datetime.html)
+- [Documentación de time](https://docs.python.org/3/library/time.html)
+- [Documentación de ZoneInfo](https://docs.python.org/3/library/zoneinfo.html)
+
+## Librerías de terceros
+
 - [Documentación oficial de Arrow](https://arrow.readthedocs.io/en/latest/)
+- [Documentación oficial de Pendulum](https://pendulum.eustace.io/docs/)
+
+## Otros recursos
+
+- [Documentación de ISO 8601 - Datetime](https://es.wikipedia.org/wiki/ISO_8601)
+- [Documentación de RFC 3339 - Timestamps](https://tools.ietf.org/html/rfc3339)
+- [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+
+## Licencia
+
+MIT
